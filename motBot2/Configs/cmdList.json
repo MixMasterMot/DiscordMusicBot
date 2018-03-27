@@ -1,8 +1,18 @@
 ﻿{
   "help": "Display a list of active commands",
+
+  //hangman cmds
   "hang": "Start a new game of hangman",
   "hang x": "Choose a letter for the hangman game where x is the leter",
   "hang hint": "Gives you a hint for hangman",
-  "reply": "Make the bot say what you just said"
+
+  //audio cmds
+  "join": "Make the bot join your current voice channel",
+  "test": "Tests audio output",
+  "play": "Make the bot play a YouTube song (URL)",
+  "clear": "Clears current song queue",
+  "next": "Plays next song in queue",
+  "nowplaying": "Get info of currently playing song",
+  "stream": "Get a live stream of a YouTube URL (currently unstable)"
 }
 
