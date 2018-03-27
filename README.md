@@ -9,4 +9,5 @@ WebSocket4Net
 Newtonsoft.Json
 Microsoft.Net.Compilers
 
-Add your bot token in the Config.json located in the Configs folder
+Add your bot token in the Config.json located in the Configs folder.
+For a list of comands se the cmdList.json file in the Configs folder.
