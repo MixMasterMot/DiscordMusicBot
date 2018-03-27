@@ -1,0 +1,8 @@
+﻿{
+  "help": "Display a list of active commands",
+  "hang": "Start a new game of hangman",
+  "hang x": "Choose a letter for the hangman game where x is the leter",
+  "hang hint": "Gives you a hint for hangman",
+  "reply": "Make the bot say what you just said"
+}
+
